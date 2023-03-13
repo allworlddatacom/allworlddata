@@ -4,4 +4,4 @@ All World Data, Dünya ve Türkiye’deki açık kaynaklı verileri bir arada to
 
 **Bağlantıya tıklayarak ziyaret edebilirsiniz.**
 
-#### ☛ [All World Data](https://allworlddata.org)
+#### ☛ [All World Data](https://allworlddata.com)
